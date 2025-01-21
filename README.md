@@ -92,11 +92,11 @@ jupyter notebook
 ```
 curso-data-analyst/
 ├── modulos/
-│   ├── modulo1/
-│   ├── modulo2/
-│   ├── modulo3/
-│   ├── modulo4/
-│   └── modulo5/
+│   ├── modulo-01/
+│   ├── modulo-02/
+│   ├── modulo-03/
+│   ├── modulo-04/
+│   └── modulo-05/
 ├── proyectos/
 ├── datasets/
 ├── notebooks/
